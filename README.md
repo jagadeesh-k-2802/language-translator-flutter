@@ -11,7 +11,7 @@ Language Translator is an application built with Flutter which can translate tex
 
 ### Screen Record
 
-[<video src="./screenshots/screen-record.mp4" width="250"/>](/screenshots/screen-record.mp4)
+[<video src="./screenshots/screen-record.mp4" width="250" controls></video>](/screenshots/screen-record.mp4)
 
 ### How To Run
 
