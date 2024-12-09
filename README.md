@@ -1,4 +1,4 @@
-# Language Translator 🅰️
+# Language Translator 🔠
 
 Language Translator is an application built with Flutter which can translate text, voice and text in images from any language to any selected language using Google Translation API & Google ML Kit to recognize text in Images.
 
